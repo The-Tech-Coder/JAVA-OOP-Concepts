@@ -8,4 +8,4 @@ Object Oriented Programming (OOP) refers to languages that uses objects in progr
 Any entity that has state and behaviour is known as an Object. An Object can be defined as an instance of a class. It is a logical and physical entity.<br>
 
 <h3>Class:</h3> 
-A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical.
+A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical. Classes contain fields, constructors, blocks, methods, other nested classes and interfaces.
