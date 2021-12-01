@@ -9,3 +9,16 @@ Any entity that has state and behaviour is known as an Object. An Object can be 
 
 <h3>Class:</h3> 
 A class is a group of objects which have common properties. It is a template or blueprint from which objects are created. It is a logical entity. It can't be physical. Classes contain fields, constructors, blocks, methods, other nested classes and interfaces.
+
+<h3>Inheritance:</h3>
+Inheritance is a Java mechanism in which one object acquires all the properties and behaviors of a parent object. Types of Inheritance in java:
+<ul>
+  <li>Single Inheritance - when a class inherits anonther class.</li>
+  <li>Multilevel Inheritance - a class extends to another class that is already extended from another class.</li>
+  <li>Hierarchical Inheritance - when two or more classes inherit a single class.</li>
+  <li>Multiple Inheritance - when a single class inherits two or more parent classes.</li>
+  <li>Hybrid Inheritance - Mix of two or more types of inheritances.</li>
+</ul>
+
+<h3>Polymorphism:</h3>
+Poly means many and morph means form. So polymorphism is nothing but the ability of an object to take more than one form. It is a concept by which we can perform a single action in many different ways.
