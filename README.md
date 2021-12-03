@@ -22,3 +22,7 @@ Inheritance is a Java mechanism in which one object acquires all the properties 
 
 <h3>Polymorphism:</h3>
 Poly means many and morph means form. So polymorphism is nothing but the ability of an object to take more than one form. It is a concept by which we can perform a single action in many different ways.
+
+<h3>Abstraction:</h3>
+Data Abstraction is the property by virtue of which only the essential details are displayed to the user. The trivial or the non-essentials units are not displayed to the user.
+<br>e.g. when you send message to your friend, you only type the text and send the message. But you don’t know the internal processing of the message delivery.
