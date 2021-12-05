@@ -26,3 +26,6 @@ Poly means many and morph means form. So polymorphism is nothing but the ability
 <h3>Abstraction:</h3>
 Data Abstraction is the property by virtue of which only the essential details are displayed to the user. The trivial or the non-essentials units are not displayed to the user.
 <br>e.g. when you send message to your friend, you only type the text and send the message. But you don’t know the internal processing of the message delivery.
+
+<h3>Encapsulation:</h3>
+Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines. It is a way to achieve data hiding in Java because other class will not be able to access the data through the private data members. Encapsulation can be achieved by Declaring all the variables in the class as private and writing public methods in the class to set and get the values of variables
