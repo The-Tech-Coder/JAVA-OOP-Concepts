@@ -12,3 +12,5 @@ class Detail{
         System.out.println(a.getName());  
     }  
 }  
+
+//run this file to see the output
